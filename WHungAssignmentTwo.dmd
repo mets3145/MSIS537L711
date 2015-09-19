@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="WHungAssignmentTwo" id="46D27359-945B-940B-38CA-865ED672437F" version="3.5">
+<createdBy>mets3145</createdBy>
+<createdTime>2015-09-16 01:17:21 UTC</createdTime>
+<ownerDesignName>WHungAssignmentTwo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>46D27359-945B-940B-38CA-865ED672437F</designId>
+</OSDM_Design>
